@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkNZnD645EwA7hrgiKnaJ2KCUCxM6WMP9t6jSzpE5Uc224cQFO1Z/A9YgLpDoXh3rbb2PFjQH24vR8B9H+DO5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anuradha.Mhaske\\Desktop\\PlanitAssignment\\PlanitAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Anuradha.Mhaske\\.nuget\\packages\\webdriver.chromedriver\\26.14.313457.1\\webdriver.chromedriver.26.14.313457.1.nupkg.sha512"
+  ],
+  "logs": []
+}
